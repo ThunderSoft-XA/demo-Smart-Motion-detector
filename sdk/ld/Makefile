@@ -1,0 +1,1 @@
+LDSCRIPT += $(TOP_DIR)/sdk/ld/quectel_dam_demo.ld
